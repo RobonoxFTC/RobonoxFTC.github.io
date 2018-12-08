@@ -118,7 +118,7 @@ p {
 #picture1 {
     height: 400px;
     width: 400px;
-    background-image: url(/2[1].jpg);
+    background-image: url(2[1].jpg);
     background-position: center;
     background-size: contain;
 }
