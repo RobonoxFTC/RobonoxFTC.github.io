@@ -118,7 +118,7 @@ p {
 #picture1 {
     height: 400px;
     width: 400px;
-    background-image: url(https://images.unsplash.com/photo-1534066825976-8f902040f339?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2295d068c833d27dbf1a2e9a1a5a9142&auto=format&fit=crop&w=934&q=80);
+    background-image: url("/1[1].jpg");
     background-position: center;
     background-size: contain;
 }
