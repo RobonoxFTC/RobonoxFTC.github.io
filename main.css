@@ -184,7 +184,7 @@ p {
     width: 400px;
     background-image: url(https://robonoxftc.github.io/DSC_0056.JPG);
     background-position: center;
-    /*background-size: contain;*/
+    background-size: contain;
 }
 
 #picturesbutton {
