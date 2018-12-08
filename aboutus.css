@@ -112,12 +112,14 @@ footer {
 }
 
 .bgimg-7 {
-    background-image: url("https://images.unsplash.com/photo-1487213802982-74d73802997c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7769196e1b91f3dfe832e82e5956fdaf&auto=format&fit=crop&w=2100&q=80");
+    background-image: url("https://robonoxftc.github.io/10[1].jpg");
+    background-size: contain;
     min-height: 45%;
 }
 
 .bgimg-8 {
-    background-image: url("https://images.unsplash.com/44/MIbCzcvxQdahamZSNQ26_12082014-IMG_3526.jpg?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=22b674fb2c751f77f7d80d22c77da67a&auto=format&fit=crop&w=3150&q=80");
+    background-image: url("https://robonoxftc.github.io/14[1].jpg");
+    background-size: contain;
     min-height: 45%;
 }
 
@@ -127,7 +129,7 @@ footer {
 }
 
 .bgimg-10 {
-    background-image: url("https://images.unsplash.com/photo-1448222993383-a2fff2914d27?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=803dc40cd7ac12853f97a26b68365c8b&auto=format&fit=crop&w=2110&q=80");
+    background-image: url("https://robonoxftc.github.io/10[1].jpg");
     min-height: 45%;
 }
 
