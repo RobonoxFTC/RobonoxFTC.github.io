@@ -198,15 +198,14 @@ p {
 #picture11 {
     height: 400px;
     width: 400px;
-    background-image: url(https://robonoxftc.github.io/DSC_0056.JPG);
-    background-position: center;
+    background-image: url()
     background-size: contain;
 }
 
 #picture12 {
     height: 400px;
     width: 400px;
-    background-image: url(https://robonoxftc.github.io/DSC_0056.JPG);
+    background-image: url();
     background-position: center;
     background-size: contain;
 }
