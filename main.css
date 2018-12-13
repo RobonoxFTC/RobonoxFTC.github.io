@@ -187,6 +187,31 @@ p {
     background-size: contain;
 }
 
+#picture10 {
+    height: 400px;
+    width: 400px;
+    background-image: url(https://robonoxftc.github.io/IMG_20181212_193748_01.jpg);
+    background-position: center;
+    background-size: contain;
+}
+
+#picture11 {
+    height: 400px;
+    width: 400px;
+    background-image: url(https://robonoxftc.github.io/DSC_0056.JPG);
+    background-position: center;
+    background-size: contain;
+}
+
+#picture12 {
+    height: 400px;
+    width: 400px;
+    background-image: url(https://robonoxftc.github.io/DSC_0056.JPG);
+    background-position: center;
+    background-size: contain;
+}
+
+
 #picturesbutton {
     background-color: var(--color-one);
     border-radius: 40px;
